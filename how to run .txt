@@ -1,0 +1,28 @@
+STEP 1:
+
+Unzipped database folder.
+Create "member" and "webpage" database in pl/sql or sql.
+And then import these 2 database from database folder.
+
+
+STEP 2:
+
+Import all project from zip file to netbeans.
+
+"Finaljsp.zip" file contain gym website and registration for new member and staff.It is accessible outside gym also.
+
+"Dailyrecord.zip" file is used by memeber and staff to enter their daily record.It is accessible only in gym.Example: workout detail,customer payment,timein,time out etc
+
+"Admin.zip" file has entire access to all record. Which include website data,member data and staff data.These module is accessible by admin only.
+
+
+Step 3:
+Run on chrome or mozilla firefox.
+For 1st time or before login run anypage it will direct to homepage or loginpage.
+
+
+
+NOTE:
+sqlconnector is also send to you.If incase Required then import it in project.It is required for connecting databsae.
+Also,this Project is made in 2017 so incase validation error occur in form then it may be due to new version of chrome or mozilla firefox.
+If anyquery or error occur then please call me.
